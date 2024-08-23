@@ -18,4 +18,4 @@ print(f"Tipo de masa: {mi_pizza.tipo_masa}")
 #print(f"¿Es la pizza válida? {'Sí' si mi_pizza.es_valida else 'No'}")
 
 # e) Intentar acceder a la validez de la pizza desde la clase (esto debería generar un error)
-print(Pizza.es_valida)
+#print(Pizza.es_valida)
